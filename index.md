@@ -4,7 +4,7 @@ Ce site est strictement réservé pour stocker les textes de formations d'Optiwe
 
 [Risque sur les placements](Risque sur les placements.md)
 
-[Défi de réalisation d'analyse ESG](Defi de réalisation d analyse ESG.md)
+[Défi de réalisation d'analyse ESG](Defi de realisation d analyse ESG.md)
 
 [Détermination d'une note ESG d'un contrat d'assurance vie multi-support](Determination d une note ESG d un contrat d assurance vie multi-support.md)
 
