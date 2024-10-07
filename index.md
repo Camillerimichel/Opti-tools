@@ -1,5 +1,9 @@
 Ce site est strictement réservé pour stocker les textes de formations d'Optiwealth
 
+[Optiwealth - Plaquette](Plaquette Optiwealth (version finale).pdf)
+
+[Optiwealth - Présentation](Presentation UAF agregation.pdf)
+
 [Mesure du risque sur un placement](Mesure du risque sur un placement.md)
 
 [Risque sur les placements](Risque sur les placements.md)
@@ -13,6 +17,3 @@ Ce site est strictement réservé pour stocker les textes de formations d'Optiwe
 [Solutions et pistes d'amélioration pour naviguer dans l'ESG](Solutions et pistes d amelioration pour naviguer dans l ESG.md)
 
 [Risque civil professionnel](Risque civil professionnel.md)
-
-[Optiwealth](Plaquette Optiwealth (version finale).pdf)
-
