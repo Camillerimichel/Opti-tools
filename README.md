@@ -4,4 +4,13 @@ Ce site est strictement réservé pour stocker les textes de formations d'Optiwe
 
 [Risque sur les placements](Risque sur les placements.md)
 
-[ESG - CIF - Clients](ESG CIF Clients.md)
+[Défi de réalisation d'analyse ESG](Défi de réalisation d'analyse ESG.md)
+
+[Détermination d'une note ESG d'un contrat d'assurance vie multi-support](Détermination d'une note ESG d'un contrat d'assurance vie multi-support.md)
+
+[Normalisation](Normalisation.md)
+
+[Solutions et pistes d'amélioration pour naviguer dans l'ESG](Solutions et pistes d'amélioration pour naviguer dans l'ESG.md)
+
+[Risque civil professionnel](Risque civil professionnel.md)
+

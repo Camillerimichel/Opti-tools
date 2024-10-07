@@ -52,8 +52,6 @@ Un CIF doit donc combiner **l’analyse individuelle des supports (via le SRRI e
 
 # Sources
 
-Bien sûr, voici une liste des principales sources réglementaires et documents de référence qui soutiennent les méthodes et principes décrits pour le calcul du risque dans un contrat d'assurance-vie multisupport :
-
 ### 1. **Directive sur les Marchés d’Instruments Financiers II (MiFID II)**
    - **Directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014** relative aux marchés d’instruments financiers (MiFID II).
    - **Règlement délégué (UE) 2017/565** complétant la directive MiFID II.
