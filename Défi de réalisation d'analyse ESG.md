@@ -1,4 +1,4 @@
-# Défi de réalisation d'analyse ESG
+# Défi de réalisation d'analyse ESG.
 
 Cela semble être un défi considérable pour une petite société de conseil avec plus de 100 clients investis sur un large éventail de placements financiers, y compris des contrats d’assurance-vie. Toutefois, il est possible de structurer et d’automatiser certaines parties du processus pour que la gestion et la comparaison ESG restent faisables à cette échelle.
 
