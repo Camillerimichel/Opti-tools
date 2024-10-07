@@ -13,3 +13,6 @@ Ce site est strictement réservé pour stocker les textes de formations d'Optiwe
 [Solutions et pistes d'amélioration pour naviguer dans l'ESG](Solutions et pistes d amelioration pour naviguer dans l ESG.md)
 
 [Risque civil professionnel](Risque civil professionnel.md)
+
+[Optiwealth](Plaquette Optiwealth (version finale).pdf)
+
