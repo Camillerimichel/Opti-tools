@@ -1,4 +1,4 @@
-# Evaluation du risque d'un placement en contrat d'assurance vie multi-support
+# Evaluation du risque d'un placement en contrat d'assurance vie multi-support.
 
 Pour un Conseiller en Investissements Financiers (CIF), l’évaluation du risque d’un placement en **contrat d’assurance-vie multisupport** est cruciale pour s'assurer que l’investissement est adapté au profil de l'investisseur. Voici les étapes et les éléments clés à prendre en compte pour calculer le risque sur ce type de placement :
 
